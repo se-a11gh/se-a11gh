@@ -1,4 +1,4 @@
-![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/galaxy2.jpg)
+![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/galaxy2003.png)
 
 About me:
 Hello! My name is Sergey.
