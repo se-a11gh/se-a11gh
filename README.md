@@ -3,7 +3,7 @@
 About me:
 
 My skills:
-![JavaScript](https://img.shields.io/badge/-style=flat&logo=JavaScript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/style=flat&logo=JavaScript&logoColor=black)
 
 My latest project:
 
