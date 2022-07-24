@@ -1,6 +1,8 @@
 ![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/galaxy2.jpg)
 
 About me:
+Hello! My name is Sergey.
+I am a beginner developer
 
 My skills:
 ![Java Script](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black)
@@ -9,9 +11,8 @@ My skills:
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass&logoColor=FF69B4)
 
 
-My latest project: (http://paninadvokat.zzz.com.ua/advokate/advok.html)
+My latest project: http://paninadvokat.zzz.com.ua/advokate/advok.html
 
 Follow me:
-
 [![Instagram](https://img.shields.io/badge/-Instagram-FF1493?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)]
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://uk-ua.facebook.com/)
