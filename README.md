@@ -3,8 +3,8 @@
 About me:
 
 My skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow
-?style=flat&logo=JavaScript&logoColor=black)
+![Java Script](https://img.shields.io/badge/- Java Script-yellow?
+style=flat&logo=Java Script&logoColor=black)
 
 My latest project:
 
