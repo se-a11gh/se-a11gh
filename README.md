@@ -11,7 +11,7 @@ My skills:
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass&logoColor=FF69B4)
 
 
-My latest project: http://paninadvokat.zzz.com.ua/advokate/advok.html
+My latest works: http://portfolio2022.zzz.com.ua/Site_1/site.html
 
 Follow me:
 [![Instagram](https://img.shields.io/badge/-Instagram-FF1493?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/)
