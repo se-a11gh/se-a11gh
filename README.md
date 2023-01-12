@@ -8,4 +8,4 @@ My skills:
 My latest works: http://portfol2023.zzz.com.ua/Site_2/Main.html
 
 Follow me:
-[![Instagram](https://img.shields.io/badge/-Instagram-FF1493?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF1493?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/trubnsergey/)
