@@ -5,7 +5,7 @@ My skills:
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass&logoColor=FF69B4)
 
 
-My latest works: http://portfol2023.zzz.com.ua/Site_2/Main.html
+My latest works:
 
 Follow me:
 [![Instagram](https://img.shields.io/badge/-Instagram-FF1493?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/trubnsergey/)
