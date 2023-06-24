@@ -1,4 +1,4 @@
-![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/galaxy.png)
+![Header]
 
 My skills:
 ![Java Script](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black)
