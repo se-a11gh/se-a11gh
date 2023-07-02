@@ -13,4 +13,4 @@ My skills and tools that i use:
 My latest works:
 
 Follow me:
-[![telegram](https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Sergey_Trubni_kov)
+[![telegram](https://img.shields.io/badge/Sergey_Trubni_kov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Sergey_Trubni_kov)
