@@ -12,5 +12,7 @@ My skills and tools that i use:
 
 My latest works:
 
+My resume(https://github.com/se-a11gh/se-a11gh/blob/main/assets/resume.pdf)
+
 Follow me:
 [![telegram](https://img.shields.io/badge/Sergey_Trubni_kov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Sergey_Trubni_kov)
