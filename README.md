@@ -1,12 +1,10 @@
 ![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/technoPhoto2.jpg)
 
-My skills:
+My skills and tools that i use:
 ![Java Sript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black)
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass&logoColor=FF69B4)
-![HTML](https://img.shields.io/badge/html5-white?style=flat&logo=HTML&logoColor=FF69B4)
+![HTML](https://img.shields.io/badge/-HTML5-#E34F26-white?style=flat&logo=HTML&logoColor=FF69B4)
 
-
-I use tools:
 
 My latest works:
 
