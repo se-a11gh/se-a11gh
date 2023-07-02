@@ -3,7 +3,7 @@
 My skills and tools that i use:
 ![Java Sript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black)
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass&logoColor=FF69B4)
-![HTML](https://img.shields.io/badge/-htmlacademy-white?style=flat&logo=HTML&logoColor=FF69B4)
+![HTML](https://img.shields.io/badge/-HTML-white?style=flat&logo=html5L&logoColor=FF69B4)
 
 
 My latest works:
