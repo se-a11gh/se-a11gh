@@ -1,4 +1,4 @@
-![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/galaxy2.png)
+![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/galaxy.png)
 
 My skills and tools that i use:
 ![Java Sript](https://img.shields.io/badge/-FAD141?style=flat&logo=JavaScript&logoColor=black)
