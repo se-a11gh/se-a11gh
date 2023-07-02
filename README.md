@@ -1,4 +1,4 @@
-![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/techno.jpg)
+![Header](https://github.com/se-a11gh/se-a11gh/blob/main/assets/technoPhoto2.jpg)
 
 My skills:
 ![Java Sript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black)
