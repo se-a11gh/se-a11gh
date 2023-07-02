@@ -1,7 +1,7 @@
 ![Header]
 
 My skills:
-![Java Script](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black)
+![Java Sript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black)
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass&logoColor=FF69B4)
 
 
