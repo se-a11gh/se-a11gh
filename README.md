@@ -7,7 +7,7 @@ My skills and tools that i use:
 ![Figma](https://img.shields.io/badge/-Figma-white?style=flat&logo=figma&logoColor=black)
 ![VScode](https://img.shields.io/badge/-VScode-white?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=css3&logoColor=1572B6)
-![PS](https://img.shields.io/badge/-PS-white?style=flat&logo=adobephotoshop&logoColor=31A8FF)
+![PS](https://img.shields.io/badge/-PS-31A8FF?style=flat&logo=adobephotoshop&logoColor=001E36)
 ![WordPress](https://img.shields.io/badge/-WordPress-white?style=flat&logo=wordpress&logoColor=21759B)
 
 My latest works:
