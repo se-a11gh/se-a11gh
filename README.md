@@ -10,7 +10,7 @@ My skills and tools that i use:
 ![PS](https://img.shields.io/badge/-31A8FF?style=flat&logo=adobephotoshop&logoColor=001E36)
 ![WordPress](https://img.shields.io/badge/-WordPress-white?style=flat&logo=wordpress&logoColor=21759B)
 
-My latest works:
+My portfolio:
 
 My resume(https://github.com/se-a11gh/se-a11gh/blob/main/assets/resume.pdf)
 
