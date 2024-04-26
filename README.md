@@ -10,7 +10,7 @@ My skills and tools that i use:
 ![PS](https://img.shields.io/badge/-31A8FF?style=flat&logo=adobephotoshop&logoColor=001E36)
 ![WordPress](https://img.shields.io/badge/-WordPress-white?style=flat&logo=wordpress&logoColor=21759B)
 
-My portfolio: [http://portfl.zzz.com.ua/Site_7/Main.php](https://www.portf24.space/)
+My portfolio: https://www.portf24.space/
 
 Follow me:
 [![telegram](https://img.shields.io/badge/Sergey_Trubni_kov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Sergey_Trubni_kov)
